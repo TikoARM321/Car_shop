@@ -1,0 +1,20 @@
+.left_pic {
+	float:left;
+	width:auto; 
+	height:auto;
+	display:block;
+}
+.right_pic{
+	float:left;
+
+}
+.pad_31 {
+	display:block;
+	margin-bottom:30px;
+}
+
+
+#modalSheet{
+	width:500px;
+	height:500px;
+}
